@@ -3,7 +3,6 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://gitee.com/kdsb/lm/raw/master/2025
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
