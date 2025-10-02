@@ -1,10 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true
 https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+
